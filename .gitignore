@@ -1,0 +1,14 @@
+# Python缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# pyinstaller打包输出
+build/
+dist/
+*.spec
+
+# 其他
+*.ico
+*.log
